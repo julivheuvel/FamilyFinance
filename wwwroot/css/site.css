@@ -16,3 +16,24 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.navlogo {
+  max-width: 4em;
+  margin: 0 2.5em;
+}
+
+main {
+  /* border: 1px red solid; */
+  /* height: 75vh; */
+  position: relative;
+}
+
+.mainimg {
+  border: 3px orange solid;
+  width: 100%;
+  z-index: -1;
+}
+.container {
+  /* position: absolute; */
+  margin: 0 auto;
+}
